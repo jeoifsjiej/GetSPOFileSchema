@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "ProjectA",
+    "webUrl": "https://example.sharepoint.com/sites/demo/ProjectA",
+    "isFolder": true,
+    "size": 0
+  },
+  {
+    "id": "2",
+    "name": "ProjectA/Specs.docx",
+    "webUrl": "https://example.sharepoint.com/sites/demo/ProjectA/Specs.docx",
+    "isFolder": false,
+    "size": 12345
+  }
+]
